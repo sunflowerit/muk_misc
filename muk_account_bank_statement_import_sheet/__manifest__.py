@@ -37,9 +37,6 @@
         "account_bank_statement_import", 
         "muk_account_accountant", 
     ],
-    'excludes': [
-        'account_bank_statement_import_csv',
-    ],
     "data": [
         "template/assets.xml",
         "views/account_bank_statement_import_views.xml"

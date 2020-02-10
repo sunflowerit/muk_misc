@@ -36,9 +36,6 @@
         'account',
         'muk_web_utils',
     ],
-    'excludes': [
-        'account_accountant',
-    ],
     'data': [
         'security/accountant_security.xml',
         'views/accountant_menu.xml',
